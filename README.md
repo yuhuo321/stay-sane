@@ -1,10 +1,10 @@
 # stay-sane
 
-![李志牛逼](https://camo.githubusercontent.com/fdc0f968a1c72a33c9022032d7859d9a216e8b68/68747470733a2f2f732e6d786d63646e2e6e65742f696d616765732d73746f726167652f616c62756d732f332f342f362f322f392f372f32363739323634335f3830305f3830302e6a7067)
-
 天若有情天亦老，人间正道是沧桑
-[Github地址](https://github.com/yuhuo321/stay-sane/) 期望star扩散。问题与讨论可以直接提issues
 
+![image](https://github.com/yuhuo321/stay-sane/blob/master/image/%E6%9D%8E%E5%BF%979-%E6%B4%97%E5%BF%83%E9%9D%A9%E9%9D%A22018.jpg)
+
+[Github地址](https://github.com/yuhuo321/stay-sane/) 期望star扩散。问题与讨论可以直接提issues
 
 # 关于版权问题
 
@@ -13,6 +13,16 @@
 从李志公众号发布的声明来看，他也希望会得到传播，所以我个人贸然建立了此repository。
 
 若有冒犯，请联系我，立即删除。
+
+
+
+<p align="center">
+  <a href="https://snailclimb.gitee.io/javaguide"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
+  <a href="#联系我"><img src="https://img.shields.io/badge/chat-微信群-blue.svg" alt="微信群"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaGuide-lightgrey.svg" alt="公众号"></a>
+  <a href="#投稿"><img src="https://img.shields.io/badge/support-投稿-critical.svg" alt="投稿"></a>
+</p>
+
 
 
 # 目录
